@@ -1,0 +1,10 @@
+.main-box{
+    border-right: 0.4rem solid #00000091;
+    border-left: 0.3rem solid #3a3a3a3f;
+    /* border-bottom: 2px so #000; */
+    border-bottom: 1px inset #47474750;
+    border-radius: 2rem;
+    padding: 1rem;
+    border-top: 8px solid #00000076;
+    
+}
